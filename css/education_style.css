@@ -54,7 +54,7 @@ a {
 }
  a:hover {
      text-decoration: none;
-     color:#9d2235;
+     color:#2EBAA1;
 }
  body {
 	font-family: 'DM Sans',sans-serif;
@@ -106,7 +106,7 @@ a {
     display: inline-block;
     border-radius: 30px;
     margin-bottom:6px;
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .witr_section_title {
     margin-bottom: 45px;
@@ -118,7 +118,7 @@ a {
 	margin-top: 10px;
 }
 .witr_section_title_inner h1 span, .witr_section_title_inner h2 span, .witr_section_title_inner h3 span, .witr_section_title_inner p span, .witr_section_title_inner p span a {
-    color: #9d2235;
+    color: #2EBAA1;
 	margin: 0 7px 0 0;
 }
 .witr_section_title_inner p {
@@ -138,7 +138,7 @@ a {
      display: none;
 }
 .poket-header-top {
-    background: #9d2235;
+    background: #2EBAA1;
     padding: 10px 0px;
 }
  .top-address p {
@@ -279,7 +279,7 @@ a {
      margin-right: 15px !important;
 }
 .poket_menu > ul > li.current > a, .poket_menu > ul > li:hover > a, .creative_header_menu > ul > li:hover > a {
-    color: #9d2235;
+    color: #2EBAA1;
     background-color: transparent;
 }
  .poket_menu > ul > li:hover > a:before, .poket_menu > ul > li.current > a:before {
@@ -392,7 +392,7 @@ a {
     transform: translateY(-50%);
 }
 .poket_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover>a, .poket_menu ul .sub-menu .sub-menu .sub-menu li:hover>a, .poket_menu ul .sub-menu .sub-menu li:hover>a, .poket_menu ul .sub-menu li:hover:before, .poket_menu ul .sub-menu li:hover>a {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 /* sub menu 2 */
 .poket_menu ul .sub-menu .sub-menu {
@@ -634,7 +634,7 @@ textarea, input {
 }
 .mean-container .mean-bar {
     float: none;
-    background: #9d2235;
+    background: #2EBAA1;
     overflow: hidden;
 }
 /* menu button */
@@ -646,7 +646,7 @@ a.dtbtn {
     font-weight: 400;
     border-radius: 0;
     padding: 19px 25px;
-    background: #a7394a;
+    background: #333333;
     color: #fff;
 }
 a.dtbtn:hover {
@@ -690,7 +690,7 @@ a.dtbtn:hover {
 }
 .witr_ds_content_inner h1 {
     font-size: 16px;
-	color: #9D2235;
+	color: #2EBAA1;
 }
  .witr_containers {
     margin: auto;
@@ -767,7 +767,7 @@ a.dtbtn:hover {
     margin-right: 15px;
     z-index: 2;
     transition: 1s;
-    background: #9d2235;
+    background: #2EBAA1;
     color: #fff;
     font-weight: 400;
 }
@@ -776,14 +776,14 @@ a.dtbtn:hover {
     color: #fff;
 }
 .witr_btn.active {
-    color: #9d2235;
-    background-color: #9D22352E;
-    border: 1px solid #9d2235;
+    color: #2EBAA1;
+    background-color: #2EBAA12E;
+    border: 1px solid #2EBAA1;
 }
 .witr_btn.active:hover {
     color: #fff;
-    background-color: #9D2235;
-    border-color: #9D2235;
+    background-color: #2EBAA1;
+    border-color: #2EBAA1;
 }
 .slider_btn {
     margin-top: 55px;
@@ -816,7 +816,7 @@ a.dtbtn:hover {
 	background: #fff;
 }
 .swiper-button-next:hover, .swiper-button-prev:hover, .witr_ds_content_inner h1 span, .witr_ds_content_inner h2 span, .witr_ds_content_inner h3 span {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 /* ===== 4. Feature Area CSS ===== */
 .education_feature_area {
@@ -870,7 +870,7 @@ a.dtbtn:hover {
 }
 .feature_btn a, .witr_feature_btn_3d a, .witr_feature_btn_f a {
     color: #FFFFFF;
-    background-color: #9D2235;
+    background-color: #2EBAA1;
     font-size: 12px;
     border-style: default;
     margin: 24px 0px 0px 0px;
@@ -878,7 +878,7 @@ a.dtbtn:hover {
 	border-radius: 30px;
 	font-weight: 400;
 	display:inline-block;
-	border: 1px solid #9d2235;
+	border: 1px solid #2EBAA1;
 }
 .witr_feature{
 	background-image: url(../images/fe2.jpg);
@@ -906,7 +906,7 @@ a.dtbtn:hover {
     display: inline-block;
     -webkit-transition: .5s;
     transition: .5s;
-    background: #9d2235;
+    background: #2EBAA1;
 	color:#fff;
 }
 .feature_area2 .sub-item h3 {
@@ -956,7 +956,7 @@ a.dtbtn:hover {
     height: 100px;
     font-size: 28px;
     border-radius: 100%;
-    color: #9D2235;
+    color: #2EBAA1;
 }
 .play-overlay a, .play-overlay a:before, .title_btn a, .title_in:after, .title_in:before, .video-item a, .video-item a:before, .witr_bar_inner {
     background: #fff;
@@ -1004,7 +1004,7 @@ a.dtbtn:hover {
     margin: 80px 22px 0 22px;
 }
 .poket_content h5 {
-    color: #9D2235;
+    color: #2EBAA1;
     font-weight: 700;
     margin: 0px 0px 10px 0px;
 	font-size:18px;
@@ -1026,11 +1026,11 @@ a.dtbtn:hover {
     padding: 15px 30px;
     height: 67px;
 	color: #b0afaf;
-	background-color: #9D22351A;
+	background-color: #2EBAA11A;
     border-radius: 5px 5px 5px 5px;
 }
 .mc4wp-form-fields button {
-    background: #9d2235;
+    background: #2EBAA1;
     border-radius: 5px 5px 5px 5px;
 	color:#fff;
 }
@@ -1076,7 +1076,7 @@ a.dtbtn:hover {
     color: #fff;
 }
 .video_page_area .witr_ds_content_inner h1{
-	color: #9D2235;
+	color: #2EBAA1;
 }
 .witr_youtube_video{
     position: absolute;
@@ -1153,7 +1153,7 @@ a.dtbtn:hover {
     width: 42px;
 }
 .event_date, .event_date_list, .witr_event_btn a, .witr_icon_adn a {
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .nav-tabs .nav-item:hover i, .nav-tabs .nav-link:hover, .witr_icon_adn a, .witr_taba_style1 .nav-tabs .nav-item.show .nav-link, .witr_taba_style1 .nav-tabs .nav-link.active {
     color: #fff;
@@ -1167,7 +1167,7 @@ a.dtbtn:hover {
     border-radius: 30px;
 }
 .event_date, .event_date_list, .witr_event_btn a, .witr_icon_adn a {
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .event_date, .event_date_list {
     color: #fff;
@@ -1242,7 +1242,7 @@ span.eleft {
     transition: .5s;
 }
 .witr_back_service2 {
-    background: #9d223594;
+    background: #2EBAA194;
 }
 .witr_content_service2 {
     position: relative;
@@ -1258,7 +1258,7 @@ span.eleft {
     padding: 10px 10px;
 }
 .witr_service2_box {
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .witr_service2_icon {
     margin-right: 25px;
@@ -1292,7 +1292,7 @@ span.eleft {
     display: block;
 }
 .service_style2_area .em-service-icon i {
-    color: #9D2235;
+    color: #2EBAA1;
     font-size: 50px;
     margin: 0px 0px 30px 0px;
 }
@@ -1318,11 +1318,11 @@ span.eleft {
     border-radius: 30px;
     font-size: 16px;
     font-weight: 400;
-	border: 1px solid #9d2235;
-	color: #9d2235;
+	border: 1px solid #2EBAA1;
+	color: #2EBAA1;
 }
 .service_style2_area .service-btn>a:hover{
-	background: #9d2235;
+	background: #2EBAA1;
 	color:#fff;
 }
 .service_style2_area .em-service:hover {
@@ -1418,7 +1418,7 @@ span.eleft {
     transition: .5s;
 }
 .witr_case_image:before {
-    background: #9d2235a6;
+    background: #2EBAA1a6;
 }
 .witr_case_image img {
     width: 100%;
@@ -1461,7 +1461,7 @@ span.eleft {
     color: #131313;
 }
 .witr_case:hover .witr_case_btnb a {
-    background: #9d2235;
+    background: #2EBAA1;
     color: #fff;
 }
 .witr_case_btnb a:hover {
@@ -1474,7 +1474,7 @@ span.eleft {
 /* ===== 9. Brand Area CSS ===== */
 .education_brand_area {
     padding: 85px 0px 100px 0px;
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .slide_items {
     text-align: center;
@@ -1561,7 +1561,7 @@ span.eleft {
     margin-right: 2px;
 }
 .wblog-content span, .wblog-content span a, .wblog-content span i, .witr_blog_con span i, .witr_blog_metan span i {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .witr_blog_con span, .witr_blog_con span a, .witr_blog_metan span, .witr_blog_metan span a {
     color: #888;
@@ -1574,7 +1574,7 @@ span.eleft {
     display: inline-block;
 }
 .witr_blog_con h2 a:hover, .witr_post_Author .nameAuthor {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .em-blog-content-area_adn {
     padding: 20px 0 0;
@@ -1584,7 +1584,7 @@ span.eleft {
     font-weight: 400;
     border-style: none;
     margin: 0 0 10px;
-    color: #9d2235;
+    color: #2EBAA1;
     display: inline-block;
     padding: 5px 5px 10px;
 }
@@ -1597,7 +1597,7 @@ span.eleft {
     transform: scale(1.2);
 }
 .learn_btn i, .learn_btn:hover, .witr_banner_content h1 span, .witr_banner_content h2 span {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .wblog-content>a:hover, .learn_btn:hover {
     color: #05313c;
@@ -1608,7 +1608,7 @@ span.eleft {
     transition: all .3s ease 0s;
 }
 .learn_btn i, .learn_btn:hover, .witr_banner_content h1 span, .witr_banner_content h2 span {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .title_btn a {
     font-size: 18px;
@@ -1617,7 +1617,7 @@ span.eleft {
     border-radius: 50px 50px 50px 50px;
     margin: 35px 0px 0px 0px;
     padding: 18px 37px 18px 37px;
-    background: #9d2235;
+    background: #2EBAA1;
     color: #fff;
     display: inline-block;
 }
@@ -1691,7 +1691,7 @@ span.eleft {
     margin-bottom: 16px;
 }
 .footer-middle .widget ul li a:hover, .footer-middle .widget ul li:hover:before {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .poket-deseducationiption-area a img {
     margin: 26px 0;
@@ -1708,8 +1708,8 @@ span.eleft {
     background: #042e38;
 }
 .poket-deseducationiption-area .social-icons a:hover {
-    background: #9d2235;
-    border-color: #9d2235;
+    background: #2EBAA1;
+    border-color: #2EBAA1;
 }
 .footer-sociala-icon {
     clear: both;
@@ -1732,7 +1732,7 @@ span.eleft {
     margin-bottom: 5px;
 }
 .poket-description-area .social-icons a {
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .poket-description-area .social-icons a:nth-child(2) {
     background: #0069d9;
@@ -1744,10 +1744,10 @@ span.eleft {
     background: #22629d;
 }
 .poket-description-area .social-icons a:hover {
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .poket-description-area .social-icons a:hover {
-    border-color: #9d2235;
+    border-color: #2EBAA1;
 }
 .footer-widget.address p {
     margin-bottom: 8px;
@@ -1790,7 +1790,7 @@ span.eleft {
     display: block;
 }
 .copy-right-text a, .footer-menu ul li a:hover {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 /* seducationoll up css */
 #scrollUp {
@@ -1802,7 +1802,7 @@ span.eleft {
     text-align: center;
     border-radius: 5px;
     width: 40px;
-	background: #9d2235;
+	background: #2EBAA1;
 }
 #scrollUp i {
     color: #fff;
@@ -1812,7 +1812,7 @@ span.eleft {
     font-size: 0;
     width: 36px;
     height: 8px;
-    border: 0 solid #9d22355c;
+    border: 0 solid #2EBAA15c;
     margin: 0 5px;
     cursor: pointer;
     border-radius: 30px;
@@ -1820,10 +1820,10 @@ span.eleft {
     -webkit-transition: .5s;
     transition: .5s;
     outline: 0;
-    background: #9D22351A;
+    background: #2EBAA11A;
 }
 .slick-dots li.slick-active button {
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .slick-dots li {
     display: inline-block;
@@ -1860,7 +1860,7 @@ span.eleft {
     transform: translate(0px, -50%);
     transition: .5s;
     border: 0px solid #17161a;
-    background:#9d2235;
+    background:#2EBAA1;
 }
  .slick-prev {
      left: -15px;
@@ -1892,7 +1892,7 @@ button:focus {
 /* ===== 12. Contact Area CSS ===== */
 .apartment_text h1 {
     font-size: 17px;
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .apartment_text h2 {
     margin-bottom: 40px;
@@ -1980,7 +1980,7 @@ button:focus {
     font-size: 16px;
     border-radius: 5px;
     margin-top: 5px;
-    background: #9d2235;
+    background: #2EBAA1;
     width: 100%;
 }
 .witr_apartment_form .btn:hover {
@@ -2020,7 +2020,7 @@ p.form-messege {
     top: 0;
     left: 0;
     position: absolute;
-	background-color: #9D2235;
+	background-color: #2EBAA1;
     opacity: 0.85;
     z-index: -1;
 }
@@ -2030,10 +2030,10 @@ p.form-messege {
     text-align: center;
 }
 .contact_page_area .witr_apartment_form form select, .contact_page_area .witr_apartment_form form select, .contact_page_area .witr_apartment_form input, .contact_page_area .twr_form_box textarea {
-	color:#9D2235;
+	color:#2EBAA1;
 }
 .contact_page_area .witr_apartment_form form select::placeholder, .contact_page_area .witr_apartment_form form select::placeholder, .contact_page_area .witr_apartment_form input::placeholder, .contact_page_area .twr_form_box textarea::placeholder {
-	color:#9D2235;
+	color:#2EBAA1;
 }
 .contact_page_area .witr_apartment_form .btn {
     width: auto;
@@ -2057,7 +2057,7 @@ p.form-messege {
 }
 .contact_style3 .apartment_area {
     padding: 50px 40px 50px 40px;
-    background: #9D2235;
+    background: #2EBAA1;
     box-shadow: none;
 }
 .contact_style3 .apartment_text h2 {
@@ -2143,7 +2143,7 @@ p.form-messege {
      color: #fff;
 }
 .breadcumb-inner li a:hover {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .brpt h2, .breadcumb-inner h2, .brpt.brptsize h2 {
     color: #ffffff;
@@ -2241,7 +2241,7 @@ label {
     line-height: normal;
     background: 0 0;
     border: none;
-    color: #9d2235;
+    color: #2EBAA1;
 	margin-bottom: 15px;
 }
 .education_educationly_area .em-service-title h3 {
@@ -2302,7 +2302,7 @@ label {
     transition: .5s;
 }
 .case_study_area .witr_case_image:before {
-    background: #9d2235a6;
+    background: #2EBAA1a6;
 }
 .case_study_area .witr_case_image img {
     width: 100%;
@@ -2378,13 +2378,13 @@ label {
 }
 .case_study_details_area .service-btn a, .case_study_details_area .witr_service_btn_3d a {
     color: #FFFFFF;
-    background-color: #9D2235;
+    background-color: #2EBAA1;
     margin: 12px 0px 0px 0px;
     padding: 10px 30px 10px 30px;
     border-radius: 30px;
     font-size: 16px;
     font-weight: 400;
-    border: 1px solid #9d2235;
+    border: 1px solid #2EBAA1;
     display: inline-block;
 }
 .case_study_details_area .service-btn a:hover, .case_study_details_area .witr_service_btn_3d a:hover{
@@ -2416,7 +2416,7 @@ label {
     font-size: 18px;
     display: block;
 	color: #FFFFFF;
-    background-color: #9D2235;
+    background-color: #2EBAA1;
     font-weight: 500;
     border-radius: 30px 30px 30px 30px;
     margin: 0px 0px 15px 0px;
@@ -2485,7 +2485,7 @@ label {
     font-size: 54px;
 }
 .em_testi_content:after, .em_testi_content:before, .em_testi_title span, .execllent_star h3, .test_q_icon i, .title_and_sub h6 {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .em_testi_content {
     position: relative;
@@ -2517,7 +2517,7 @@ label {
     font-weight: 600;
 }
 .em_testi_content:after, .em_testi_content:before, .em_testi_title span, .execllent_star h3, .test_q_icon i, .title_and_sub h6 {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .em_single_testimonial:hover {
     box-shadow: 0 0 20px 0 rgba(0,0,0,.13);
@@ -2744,7 +2744,7 @@ label {
     width: 100%;
 }
 .tuition_fees_faq_area .witr_amar_table table th {
-    background: #9d223530;
+    background: #2EBAA130;
 }
 .tuition_fees_faq_area .witr_amar_table table td, .tuition_fees_faq_area .witr_amar_table table th {
     padding: 15px 30px;
@@ -2757,7 +2757,7 @@ label {
     border-bottom: 1px solid #ededed;
 }
 .tuition_fees_faq_area .active .witr_ac_style, .banner-content a i, .banner-content button, .banner-content.content-4 ul li a:hover i, .butn:before, .witr_about_btn a, .tuition_fees_faq_area  .witr_ac_style:focus, .tuition_fees_faq_area  .witr_ac_style:hover {
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .tuition_fees_faq_area .active .witr_ac_style, .tuition_fees_faq_area .witr_ac_style:focus, .witr_ac_style:hover {
     color: #fff;
@@ -2801,7 +2801,7 @@ label {
     text-align: center;
 }
 .nav-tabs .nav-link:hover, .witr_taba_style1 .nav-tabs .nav-item.show .nav-link, .witr_taba_style1 .nav-tabs .nav-link.active {
-    background: #9d2235;
+    background: #2EBAA1;
 	 color: #fff;
 }
 .nav-tabs .nav-item:hover i, .nav-tabs .nav-link:hover, .witr_icon_adn a, .witr_taba_style1 .nav-tabs .nav-item.show .nav-link, .witr_taba_style1 .nav-tabs .nav-link.active {
@@ -2820,7 +2820,7 @@ label {
     display: inline-block;
 }
 .witr_taba_style1 .nav-tabs .nav-link {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .witr_taba_style1 .nav-tabs .nav-link {
     background: #fff;
@@ -2863,7 +2863,7 @@ label {
     height: 75px;
     font-size: 23px;
     border-radius: 100%;
-	    background: #9d2235;
+	    background: #2EBAA1;
 }
 .play-overlay a:before {
     position: absolute;
@@ -2885,7 +2885,7 @@ label {
 	color:#fff;
 }
 .tab_area .play-overlay a, .tab_area .play-overlay a:before{
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .tab_content2_inner {
     box-shadow: 0px 0px 62px -4px rgb(0 0 0 / 10%);
@@ -2976,10 +2976,10 @@ label {
     background: #fff;
 }
 .em-team-content-socials a {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .em-team:hover .em-team-content-waraper {
-    background: #9d2235e6;
+    background: #2EBAA1e6;
 }
 .em-team:hover .em-team-content-waraper {
     bottom: 0;
@@ -2988,7 +2988,7 @@ label {
     color: #fff;
 }
 .em-team-content-socials a:hover {
-    background: #9d2235e6;
+    background: #2EBAA1e6;
 }
 /* ===== Team Area CSS ===== */
 .team_area2 {
@@ -3019,7 +3019,7 @@ label {
     transition: .5s;
 }
  .witr_team_section:before {
-    background: #9d22356b;
+    background: #2EBAA16b;
 }
 .team_area2 .team_overlay_icon a {
     position: absolute;
@@ -3035,7 +3035,7 @@ label {
     border-radius: 50%;
 }
 .team_area2 .team_overlay_icon a {
-    background: #9d2235;
+    background: #2EBAA1;
 	color: #fff;
 }
 .team_area2 .witr_team_content {
@@ -3046,7 +3046,7 @@ label {
 }
 .team_area2 .witr_team_content span {
     font-size: 18px;
-	color: #9d2235;
+	color: #2EBAA1;
 }
  .witr_team_section:hover:before {
     opacity: 1;
@@ -3055,7 +3055,7 @@ label {
     opacity: 1;
 }
 .team_area2 .witr_team_content h5 a:hover, .team_area2 .witr_team_content h5:hover, .team_area2 .witr_team_content span {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 /* ===== Team Area CSS ===== */
 .team_area3 {
@@ -3088,7 +3088,7 @@ label {
     background: #fff;
 }
 .post_team_icon_8 ul li a {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .pteam_8 .post_team_content {
     text-align: left;
@@ -3120,7 +3120,7 @@ label {
     text-align: center;
 }
 .post_team_icon_8 ul li a:hover {
-    background: #9d2235;
+    background: #2EBAA1;
     color: #fff;
 }
 .team_area3 .all_color_team {
@@ -3196,20 +3196,20 @@ label {
     transition: .5s;
     margin: 0 2px;
     font-size: 15px;
-	color: #9d2235;
-	background: #9d223533;
-	border: 1px solid #9d22351c;
+	color: #2EBAA1;
+	background: #2EBAA133;
+	border: 1px solid #2EBAA11c;
 }
 .team_o_icons ul li a:hover {
-    background: #9d2235;
-	border-color: #9d2235;
+    background: #2EBAA1;
+	border-color: #2EBAA1;
 	color:#fff;
 }
 .team_area5 .all_color_team:hover .team_o_icons:before {
     width: 100%;
 }
 .team_area5 .all_color_team:hover .team_o_icons:before {
-    background: #9d2235;
+    background: #2EBAA1;
 }
 /* ===== 22. Image Box Area CSS ===== */
 .image_box_area {
@@ -3243,7 +3243,7 @@ label {
     display: inline-block;
     transition: .5s;
     color: #FFFFFF;
-    background-color: #9D2235;
+    background-color: #2EBAA1;
     margin: 12px 0px 0px 0px;
     padding: 10px 30px 10px 30px;
 	border-radius: 30px;
@@ -3323,7 +3323,7 @@ label {
     margin-right: 15px;
     font-weight: 400;
     border-radius: 30px;
-	background: #9d2235;
+	background: #2EBAA1;
 	color:#fff;
 }
  .poket_button a:hover {
@@ -3387,10 +3387,10 @@ label {
     -webkit-transform: translate(-50%,-50%);
     transform: translate(-50%,-50%);
     border-radius: 50%;
-    box-shadow: 0 0 0 0 #9d2235;
+    box-shadow: 0 0 0 0 #2EBAA1;
     -webkit-animation: witr_video_ripple 2s infinite;
     animation: witr_video_ripple 2s infinite;
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .poket_video_inner i {
     height: 70px;
@@ -3403,11 +3403,11 @@ label {
     -webkit-transition: 1s;
     transition: 1s;
     color: #fff;
-    background: #9d2235;
+    background: #2EBAA1;
     position: relative;
 }
 .poket_video_inner i, .w_educations_button a:hover {
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .poket_video_inner h4 {
     margin-top: 20px;
@@ -3444,7 +3444,7 @@ label {
     font-size: 18px;
     box-shadow: 0 0 65px 0 #00000014;
 	text-align:center;
-	background: #9d2235;
+	background: #2EBAA1;
 	color:#fff;
 	display:inline-block;
 }
@@ -3685,7 +3685,7 @@ label {
     margin-bottom: 30px;
 }
 .progress_area2 .progress-bar {
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .progress_area2 .progress {
     background-color: #e9ecef;
@@ -3743,7 +3743,7 @@ label {
     padding: 95px 0 50px;
 }
 .progress_area3 .progress-bar {
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .progress_area3 .witr_single_progress {
     margin-bottom: 50px;
@@ -3795,7 +3795,7 @@ span.witr_cir_text {
     padding: 100px 0 90px;
 }
 .alert_inner {
-    background-color: #9D2235;
+    background-color: #2EBAA1;
     color: #31708f;
     padding: 15px;
     border-left: 5px solid #bcdff1;
@@ -3870,7 +3870,7 @@ span.witr_cir_text {
     position: relative;
     padding: 30px 25px;
     border-radius: 5px;
-	background: #9d2235;
+	background: #2EBAA1;
 }
 .pricing_topb_zindex {
     position: relative;
@@ -3916,7 +3916,7 @@ span.witr_cir_text {
 }
 .witr_pricing_icon i {
     font-size: 40px;
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .pricing_style_6 .witri_texti_list {
     margin-top: 0;
@@ -3942,8 +3942,8 @@ span.witr_cir_text {
 .pricing-part a.btn {
     padding: 17px 30px;
     border-radius: 0px 0px 0px 0px;
-    border: 1px solid #9d2235;
-    background: #9d2235;
+    border: 1px solid #2EBAA1;
+    background: #2EBAA1;
     color: #fff;
     font-size: 16px;
     font-weight: 400;
@@ -3955,7 +3955,7 @@ span.witr_cir_text {
     background: 0 0;
 }
 .pricing-part a.btn:hover {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .pricing-part strong {
     font-size: 16px;
@@ -3996,14 +3996,14 @@ span.witr_cir_text {
     font-size: 20px;
 }
 .pricing_plan_area .witr_btnp_color a.btn {
-    color: #9D2235;
+    color: #2EBAA1;
     background-color: #FFFFFF00;
     border-style: default;
     border-radius: 0px 0px 0px 0px;
 }
 .pricing_plan_area .witr_btnp_color a.btn:hover {
     color: #FFFFFF;
-    background-color: #9D2235;
+    background-color: #2EBAA1;
     border-style: default;
 }
 .witr_bar_main {
@@ -4018,7 +4018,7 @@ span.witr_cir_text {
     margin: 0 auto;
     position: relative;
     border-radius: 30px;
-	background: #9d2235;
+	background: #2EBAA1;
 }
 .witr_bar_innerc:before {
     content: '';
@@ -4038,7 +4038,7 @@ span.witr_cir_text {
     animation-name: move_title_bg1;
 }
 .witr_bar_innerc:after, .witr_bar_innerc:before {
-    border: 6px solid #9d2235;
+    border: 6px solid #2EBAA1;
 }
 .witr_bar_innerc:after {
     content: '';
@@ -4104,7 +4104,7 @@ span.witr_cir_text {
     left: 0;
 }
 .witr_service_front_3d {
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .witr_service_front_3d:before {
     content: "";
@@ -4188,7 +4188,7 @@ span.witr_cir_text {
 }
 .witr_service_btn_3d a:hover {
     background: #fff;
-	color: #9d2235;
+	color: #2EBAA1;
 }
 /* ===== 3D Area CSS ===== */
 .education_3d_area2 {
@@ -4215,7 +4215,7 @@ span.witr_cir_text {
     background-size: cover;
 }
 .education_3d_area2 .witr_service_back_3d:before {
-    background-color: #9D2235B0;
+    background-color: #2EBAA1B0;
 }
 
 
@@ -4223,7 +4223,7 @@ span.witr_cir_text {
 
 /* ===== 30. Counter Area CSS ===== */
 .counter_area {
-    background: #9D2235;
+    background: #2EBAA1;
     padding: 100px 0 80px;
 }
 .counter_area .witr_single_counter, .counter_area .witr_counter_single {
@@ -4270,7 +4270,7 @@ span.witr_cir_text {
 .tuba_counter_area2 {
     position: relative;
     padding: 100px 0px 80px;
-    background: #9D2235;
+    background: #2EBAA1;
 }
 .tuba_counter_area2 .counter_title h4 {
     color: #FFFFFF;
@@ -4360,7 +4360,7 @@ span.witr_cir_text {
     box-shadow: 0 5px 20px 0 #0000000d;
 }
 .witr_counter_6 .wirt_new_iner {
-    background: #9d2235;
+    background: #2EBAA1;
     padding: 25px 0px 25px;
     border-radius: 5px;
     width: 29%;
@@ -4401,7 +4401,7 @@ span.witr_cir_text {
 	background: 0 0;
 }
 .counter_area3 .witr_custom_icon i {
-    color:#9D2235;
+    color:#2EBAA1;
 }
 .counter_area3 .witr_counter_text h4 {
     font-size: 22px;
@@ -4410,7 +4410,7 @@ span.witr_cir_text {
     margin-bottom: -5px;
 }
 .counter_area3 .witr_counter_text h3 {
-    color: #9d2235;
+    color: #2EBAA1;
     font-weight: 700;
     font-size: 40px;
     display: inline-block;
@@ -4421,7 +4421,7 @@ span.witr_cir_text {
 }
 .counter_area3 .witr_counter_text span {
     font-size: 40px;
-    color: #9d2235;
+    color: #2EBAA1;
     font-weight: 700;
     display: inline-block;
 }
@@ -4451,7 +4451,7 @@ span.witr_cir_text {
 	background: 0 0;
 	box-shadow: none;
     overflow: visible;
-	border: 1px solid #9d2235;
+	border: 1px solid #2EBAA1;
 	margin-top: 29px;
     display: -ms-flexbox;
     display: flex;
@@ -4465,7 +4465,7 @@ span.witr_cir_text {
     color: #fff;
     white-space: nowrap;
     transition: width .6s ease;
-	background: #9d2235;
+	background: #2EBAA1;
 	overflow: inherit;
 	position: relative;
     text-align: left;
@@ -4490,7 +4490,7 @@ span.witr_cir_text {
     margin-bottom: 15px;
 }
 .skill_img_inner .play-overlay a, .skill_img_inner .play-overlay a:before, .skill_img_inner .video-item a, .skill_img_inner .video-item a:before{
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .skill_img_inner .play-overlay a {
     width: 53px;
@@ -4516,7 +4516,7 @@ span.witr_cir_text {
     height: 100px;
     font-size: 28px;
     border-radius: 100%;
-	background: #9d2235;
+	background: #2EBAA1;
 }
 .choose_page_video_area .video-item i {
    color:#fff;
@@ -4555,19 +4555,19 @@ span.witr_cir_text {
 span.cdowns {
     width: 200px;
     height: 200px;
-    border-color: #9D2235;
+    border-color: #2EBAA1;
     padding: 59px 0px 0px 0px;
 	display: inline-block;
     margin: 0 10px;
     position: relative;
     line-height: 1;
-	border:1px solid #9D2235;
+	border:1px solid #2EBAA1;
 	margin-bottom:30px;
 }
 span.time-counts {
     font-size: 50px;
     font-weight: 700;
-    color: #9d2235;
+    color: #2EBAA1;
     display: inline-block;
 }
 .counterdowns p {
@@ -4576,11 +4576,11 @@ span.time-counts {
     margin: 10px 0px 0px 0px;
 }
 .counterdowns p, span.time-counts {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 /* ===== Countdown Area CSS ===== */
 .countdown_area2 {
-    background: #9D2235;
+    background: #2EBAA1;
 }
 .countdown_area2  span.cdowns {
     border: 1px solid #fff;
@@ -4609,7 +4609,7 @@ span.time-counts {
     border-radius: 50%;
 }
 .countdown_area3 span.cdowns:after, .countdown_area3 span.cdowns:before {
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .countdown_area3 span.cdowns:after {
     position: absolute;
@@ -4659,7 +4659,7 @@ span.border_witr_none:after, span.border_witr_none:before {
     height: 12px;
     width: 12px;
     border-radius: 50%;
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .service_style2_countdown_area span.cdowns:after {
     position: absolute;
@@ -4669,7 +4669,7 @@ span.border_witr_none:after, span.border_witr_none:before {
     height: 12px;
     width: 12px;
     border-radius: 50%;
-    background: #9d2235;
+    background: #2EBAA1;
 }
 /* ===== 32. Financial Aid Area CSS ===== */
 .financial_aid_area {
@@ -4839,7 +4839,7 @@ span.border_witr_none:after, span.border_witr_none:before {
     text-transform: capitalize;
 }
 .blog-left-side .widget h2::before {
-    background: #9d2235 none repeat scroll 0 0;
+    background: #2EBAA1 none repeat scroll 0 0;
     bottom: 0;
     content: "";
     height: 20px;
@@ -4875,7 +4875,7 @@ span.border_witr_none:after, span.border_witr_none:before {
 }
 .blog-left-side .widget ul li a:hover,
 .blog-left-side .widget ul li:hover::before {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .blog-left-side .widget ul li::before {
     content: "\f105";
@@ -4917,10 +4917,10 @@ span.border_witr_none:after, span.border_witr_none:before {
 .widget_archive ul li:hover:before,
 .widget_categories ul li a:hover,
 .widget_categories ul li:hover:before {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .tagcloud a:hover {
-    background: #9d2235;
+    background: #2EBAA1;
     color: #fff;
 }
 #wp-calendar caption {
@@ -4963,7 +4963,7 @@ table#wp-calendar th {
 }
 table#wp-calendar td#today {
     color: #fff;
-    background-color: #9d2235;
+    background-color: #2EBAA1;
 }
 table#wp-calendar td#today a {
     color: #fff;
@@ -5059,7 +5059,7 @@ table#wp-calendar td#today a {
     color: #444;
 }
 .education-blog-meta.post_blog h2 a:hover{
-	color:#9d2235;
+	color:#2EBAA1;
 }
 .education-single-blog-title h2 {
     padding: 0;
@@ -5074,7 +5074,7 @@ table#wp-calendar td#today a {
 	display:inline-block;
 }
 .education-blog-meta-left i {
-    color: #9d2235;
+    color: #2EBAA1;
     margin-right: 5px;
 }
 .blog-content p {
@@ -5082,7 +5082,7 @@ table#wp-calendar td#today a {
     padding-top: 14px;
 }
 .em-blog-content-area .witr_btn {
-    background: #9d2235;
+    background: #2EBAA1;
     border-radius: 5px;
     color: #fff;
     display: inline-block;
@@ -5113,7 +5113,7 @@ blockquote p {
 }
 .witr-blog-side-area blockquote {
     background-color: #f7f7f7;
-    border-left: 3px solid  #9d2235;
+    border-left: 3px solid  #2EBAA1;
     padding: 1em 1em;
     margin-top: 15px;
 }
@@ -5127,7 +5127,7 @@ blockquote p {
     transition: all .3s ease 0s;
 }
 .recent-post-text h4 a:hover {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .blog-left-side .widget a {
     color: #454545;
@@ -5196,8 +5196,8 @@ blockquote p {
     color: #444;
 }
 .education_btn:hover {
-    background:#9d2235;
-	border-color:#9d2235;
+    background:#2EBAA1;
+	border-color:#2EBAA1;
 	color:#fff;
 }
 .single_blog_thumb img {
@@ -5250,8 +5250,8 @@ blockquote p {
 	transition:.5s;
 }
 .education-single-icon-inner a:hover {
-    background: #9d2235 ;
-    border-color: #9d2235 ;
+    background: #2EBAA1 ;
+    border-color: #2EBAA1 ;
     color: #fff;
 }
 .recent-post-image {
@@ -5322,7 +5322,7 @@ blockquote p {
     border-radius: 5px;
     font-size: 30px;
     background: #fff;
-    color: #9d2235;
+    color: #2EBAA1;
     text-align: center;
     z-index: 99;
     opacity: 0;
@@ -5359,7 +5359,7 @@ blockquote p {
 	transition:.5s;
 }
 .witr_content_pslide_text h3 a:hover {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .witr_content_pslide_text p {
     color: #fff;
@@ -5384,7 +5384,7 @@ blockquote p {
     bottom: 0;
 }
 .positi_3.pprotfolio4 {
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .positi_3 .porttitle_inner4 h3 a, .positi_3 .porttitle_inner4 p span {
     color: #fff;
@@ -5595,12 +5595,12 @@ blockquote p {
     display: inline-block;
 }
 .portfolio_nav ul li.current_menu_item, .portfolio_nav ul li:hover {
-    border-color: #9d2235;
-	background: #9d2235;
+    border-color: #2EBAA1;
+	background: #2EBAA1;
 	color: #fff;
 }
 .prot_content {
-    background: #9d223580;
+    background: #2EBAA180;
 }
 .pprotfolio4 {
     box-shadow: 0 10px 16px 0 rgba(0,0,0,.7);
@@ -5612,8 +5612,8 @@ blockquote p {
     text-align: center;
 }
 .page-numbers span.current, .paginations a.current, .paginations a:hover {
-    border-color: #9d2235;
-	 background: #9d2235;
+    border-color: #2EBAA1;
+	 background: #2EBAA1;
 	 color: #fff;
 }
 ul.page-numbers a.page-numbers {
@@ -5679,11 +5679,11 @@ ul.page-numbers a.page-numbers {
     width: 50px;
     text-align: center;
     color: #fff;
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .picon a:hover {
 	border-color: #555;
-    background-color: #9d2235;
+    background-color: #2EBAA1;
 }
 /* style 1 */
 .em_port_content {
@@ -5758,7 +5758,7 @@ ul.page-numbers a.page-numbers {
     text-align: left;
 }
 .pstyle2.pstyle3 .prot_content_inner {
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .pstyle2.pstyle3 .single_protfolio:hover .prot_content_inner {
     left: 75%;
@@ -5797,7 +5797,7 @@ ul.page-numbers a.page-numbers {
     margin-bottom: 20px;
 }
 .port_style02 .prot_content h3 a:hover {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .portfolio_style2 .port_style02 .pstyle_1 .prot_content_inner {
     position: absolute;
@@ -5841,7 +5841,7 @@ ul.page-numbers a.page-numbers {
     transform: scale(1,1);
 }
 .portfolio_style2 .prot_content h3 a:hover {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .port_3column_area .prot_content_inner {
     top: 50%;
@@ -5913,20 +5913,20 @@ ul.page-numbers a.page-numbers {
     transition: .5s;
 }
 .project_grid .prot_content_inner {
-    background: #9d22356b;
+    background: #2EBAA16b;
     text-align: left;
 }
 .project_grid .prot_content h3 {
     margin-bottom: 5px;
 }
 .project_grid .picon a {
-    background: #9d2235;
+    background: #2EBAA1;
 }
 .project_grid .prot_content h3 a {
     margin-bottom: 0;
 }
 .project_grid .prot_content h3 a:hover {
-    color: #9d2235;
+    color: #2EBAA1;
 }
 .project_grid .picon a:hover {
     background: #15133a;
@@ -5942,8 +5942,8 @@ ul.page-numbers a.page-numbers {
 
 
  .tx_golobal_color{
-     background: #9d2235;
+     background: #2EBAA1;
 }
  .tx_btn_global_color:hover{
-     background:#9d2235;
+     background:#2EBAA1;
 }
