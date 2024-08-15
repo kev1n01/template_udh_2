@@ -437,22 +437,35 @@ a {
      top: 0%;
 }
 
-/* has menu icon */
+/* Asegúrate de que los elementos de la barra de navegación tengan suficiente espacio */
+.poket-main-menu {
+    white-space: nowrap;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center; /* Centra el contenido */
+}
+
+/* Ajusta el margen y el padding de los elementos del menú */
+.poket-main-menu .menu-item {
+    margin: 0;
+    padding: 0 15px; /* Ajusta según sea necesario */
+}
+
+/* Asegúrate de que los íconos no ocupen demasiado espacio */
 .poket-main-menu .menu-item-has-children > a:after {
     margin-left: 8px;
     content: "\f107";
     font-family: FontAwesome !important;
-    opacity: 1;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     font-size: 13px;
-    opacity: .5;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    opacity: 0.5;
     font-weight: 600;
 }
- .poket-main-menu .menu-item-has-children .menu-item-has-children> a:after {
-     margin-left: 8px;
-     content: "\f107";
+
+.poket-main-menu .menu-item-has-children .menu-item-has-children > a:after {
+    margin-left: 8px;
+    content: "\f107";
 }
+
 
 /* quearys area css */
 .poket_menu.main-search-menu > .em-header-quearys, .em-quearys-top.msin-menu-search {
