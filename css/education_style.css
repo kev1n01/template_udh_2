@@ -722,6 +722,7 @@ a.dtbtn:hover {
     overflow: hidden;
 	position:relative;
     z-index: 1;
+    
 }
 .witr_ds_content:before {
     position: absolute;
@@ -730,14 +731,16 @@ a.dtbtn:hover {
     right: 0;
     bottom: 0;
     content: "";
-    background: #26262699;
+    background: #26262699 ;
     z-index: -1;
 }
 .witr_ds_content_inner {
     position: relative;
-    top: 49%;
+    margin-left: 60px;
+    top: 35%;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
+    text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
 }
 .witr_slick_content h2 {
     color: #fff;
