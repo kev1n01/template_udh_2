@@ -225,19 +225,34 @@ a {
 }
 
 /* logo sticky */
- .poket-main-menu .logo a.main_sticky_main_l {
-     display: block;
+.pmain_sticky_l .logo a.main_sticky_main_l {
+    display: block;
+    max-width: 150px; /* Ajusta este valor según el tamaño que desees */
+    height: auto;
 }
- .poket-main-menu .logo a.main_sticky_l {
-     display: none;
+
+.poket-main-menu .logo a.main_sticky_l {
+    display: none;
 }
+
 /* logo pre */
- .poket-main-menu .prefix .logo a.main_sticky_main_l {
-     display: none;
+.poket-main-menu .prefix .logo a.main_sticky_main_l {
+    display: none;
 }
- .poket-main-menu .prefix .logo a.main_sticky_l {
-     display: block;
-} 
+
+.poket-main-menu .prefix .logo a.main_sticky_l {
+    display: block;
+    max-width: 180px; /* Ajusta este valor según el tamaño que desees */
+    height: auto;
+}
+
+/* Estilos adicionales para el logo */
+.poket-main-menu .logo a img,
+.pmain_sticky_l .logo a img {
+    max-width: 60%;
+    height: auto;
+    transition: all 0.3s ease;
+}
 
 
 /* MENU text CSS */
@@ -635,26 +650,49 @@ textarea, input {
 }
 
 /* mobile-menu  */
+/* Estilos generales */
 .mobile-menu {
     display: none !important;
 }
+
 .mobile_logo_area {
     display: none !important;
 }
+
 .mobile_menu_logo.text-center {
     padding: 20px 0;
 }
- .mean-container .mean-bar {
-     padding: 0;
+
+/* Ajustar el tamaño del logo en móviles */
+@media (max-width: 768px) { 
+    .mobile_menu_logo.text-center img { 
+        width: 150px; 
+        height: auto; 
+    }
 }
- .main_menu_div {
-     position: relative;
+
+
+@media (max-width: 480px) { 
+    .mobile_menu_logo.text-center img { 
+        width: 20git 0px; 
+        height: auto; 
+    }
 }
+
+.mean-container .mean-bar {
+    padding: 0;
+}
+
+.main_menu_div {
+    position: relative;
+}
+
 .mean-container .mean-bar {
     float: none;
     background: #2EBAA1;
     overflow: hidden;
 }
+
 /* menu button */
 a.dtbtn {
     border: none;
