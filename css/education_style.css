@@ -368,6 +368,11 @@ a {
     visibility: inherit !important;
     padding: 4px 0px;
 }
+.poket_menu ul .sub-menu li a {
+    display: block;
+    word-wrap: break-word; 
+    white-space: normal; 
+}
  .poket_menu ul .sub-menu li:hover > a, .poket_menu ul .sub-menu .sub-menu li:hover > a, .poket_menu ul .sub-menu .sub-menu .sub-menu li:hover > a, .poket_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover > a {
      color: #14b1bb;
 }
