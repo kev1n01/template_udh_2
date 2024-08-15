@@ -249,7 +249,7 @@ a {
 /* Estilos adicionales para el logo */
 .poket-main-menu .logo a img,
 .pmain_sticky_l .logo a img {
-    max-width: 60%;
+    max-width: 50%;
     height: auto;
     transition: all 0.3s ease;
 }
