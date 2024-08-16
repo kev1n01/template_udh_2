@@ -722,6 +722,7 @@ a.dtbtn:hover {
     overflow: hidden;
 	position:relative;
     z-index: 1;
+    
 }
 .witr_ds_content:before {
     position: absolute;
@@ -730,14 +731,16 @@ a.dtbtn:hover {
     right: 0;
     bottom: 0;
     content: "";
-    background: #26262699;
+    background: #26262699 ;
     z-index: -1;
 }
 .witr_ds_content_inner {
     position: relative;
-    top: 49%;
+    margin-left: 60px;
+    top: 35%;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
+    text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
 }
 .witr_slick_content h2 {
     color: #fff;
@@ -992,10 +995,10 @@ a.dtbtn:hover {
 }
 /* ===== 6. Video Area CSS ===== */
 .education_video_area {
-    background-image: url(../images/video-bg.jpg);
+    background-image: url(../images/ropacity.jpg);
     background-position: center center;
     background-size: cover;
-    padding: 92px 0px 0px 0px;
+    padding: 200px 0px 150px 0px;
 }
 .education_video_area .witr_section_title_inner h2 {
     margin-bottom: 17px;
@@ -1386,7 +1389,7 @@ span.eleft {
 	color:#fff;
 }
 .service_style2_area .em-service:hover {
-	background-image: url(../images/case2.jpg);
+	background-image: url(../images/case1.jpg);
     background-position: center center;
     background-size: cover;
 }
@@ -1498,6 +1501,7 @@ span.eleft {
 }
 .witr_content_casei h3 {
     font-size: 18px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     color: #fff;
     font-weight: 700;
 }

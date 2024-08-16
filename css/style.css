@@ -387,6 +387,7 @@ table#wp-calendar td#today a {
     transition: 1s;
     font-weight: 400;
 	margin-bottom:15px;
+    
 }
 .em-blog-content-area .witr_btn:hover {
     background: #323232;
