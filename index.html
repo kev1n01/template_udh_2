@@ -1,11 +1,11 @@
 <!DOCTYPE html><html lang="en-US"><head>
       <meta charset="UTF-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
-      <title>Poket – Education Online Responsive Website Template </title>
+      <title> UDH - Universidad de Huánuco </title>
       <meta name="Description" content="">
       <meta name="viewport" content="wicorporateh=device-wicorporateh, initial-scale=1">
       <!-- Favicon Icon -->
-      <link rel="icon" type="image/png" href="images/favicon.png">
+      <link rel="icon" type="image/png" href="images/simbolo.png">
       <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
       <link rel="stylesheet" type="text/css" href="css/venobox.css">
       <link rel="stylesheet" type="text/css" href="css/plugin_theme_css.css">
@@ -13,6 +13,33 @@
       <link rel="stylesheet" type="text/css" href="css/education_style.css">
       <link rel="stylesheet" type="text/css" href="css/responsive.css">
       <link rel="stylesheet" type="text/css" href="css/education-responsive.css">
+      <link rel="stylesheet" type="text/css" href="css/chat.css">
+      <style>
+         #button-whatsapp {
+            display: flex;
+            position: fixed;
+            bottom: 70px;
+            right: 20px;
+            z-index: 99;
+            font-size: 25px;
+            border: none;
+            outline: none;
+            justify-content: center;
+            align-items: center;
+            border-radius: 5px;
+            color: white;
+            background-color: #2EBAA1;
+            cursor: pointer;
+            width: 40px;
+            height: 40px;
+            line-height: 50px;
+            text-align: center;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.17);
+            transition: all .5s ease-in-out;
+            opacity: 1;
+            visibility: visible;
+         }
+      </style>
       <!-- modernizr js -->	
       <script src="js/modernizr-2.8.3.min.js"></script>
    </head>
@@ -338,8 +365,7 @@
                <div class="slider_btn">
                   <div class="witr_btn_style">
                      <div class="witr_btn_sinner">
-                        <a class="witr_btn" href="#">Novedades</a>
-                        <a class="witr_btn active recpwit" href="#">Ver mas</a>
+                        <a class="witr_btn recpwit" href="#">Ver mas</a>
                      </div>
                   </div>
                </div>
@@ -1020,14 +1046,14 @@
                <div class="row">
                   <div class="col-lg-6 col-md-6  col-sm-12">
                      <div class="copy-right-text">
-                        <p>Copyright © poket all rights reserved.</p>
+                        <p>Copyright © UDH todos los derechos reservados.</p>
                      </div>
                   </div>
                   <div class="col-lg-6 col-md-6  col-sm-12">
                      <div class="footer-menu text-right">
                         <ul>
-                           <li><a href="#">Condition</a></li>
-                           <li><a href="#">Privacy Policy</a></li>
+                           <li><a href="#">Condiciones</a></li>
+                           <li><a href="#">Politicas de Privacidad</a></li>
                         </ul>
                      </div>
                   </div>
@@ -1035,6 +1061,59 @@
             </div>
          </div>
       </div>
+
+      <button type="button" id="chatButton" style="position: fixed; z-index: 2147483647;"><i class="far fa-comment"></i></button>
+
+      <div class="chat_box" id="chat_box">
+         <div class="chat_box_header">
+            <div class="chat_header_title">
+               <p>Soporte Deache</p>
+            </div>
+            <div class="chat_box_close">
+               <i class="fas fa-times" id="chat_box_close"></i>
+            </div>
+         </div>
+         <div class="chat_box_body">
+            <div class="chats">
+               <div class="user">
+                  <p>
+                     Hola
+                  </p>  
+               </div>
+               <div class="bot">
+                  <img src="images/logo_chat.png" alt="">
+                  <p>
+                     ¿Necesitas ayuda?
+                  </p>  
+               </div>
+               <div class="user">
+                  <p>
+                     Sí
+                  </p>  
+               </div>
+               <div class="bot">
+                  <img src="images/logo_chat.png" alt="">
+                  <p>
+                     Dime tu nombre
+                  </p>  
+               </div>
+               <div class="user">
+                  <p>
+                     Kearnold
+                  </p>  
+               </div>
+            </div>
+         </div>
+         <div class="chat_box_footer">
+            <form>
+               <input type="text" placeholder="Escribe tu consulta aquí..." />
+               <button type="submit"><i class="fas fa-paper-plane"></i></button>
+            </form>
+         </div>
+      </div>
+
+      <a target="_blank" href="https://wa.link/ek3o0p" id="button-whatsapp"><i class="fab fa-whatsapp"></i></a>
+      
       <!-- Include All JS -->
       <script src="js/jquery-3.5.1.min.js"></script>
       <script src="js/bootstrap.min.js"></script>
@@ -1051,5 +1130,6 @@
       <script src="js/jquery.meanmenu.js"></script>
       <script src="js/ajax-mail.js"></script>		
       <script src="js/theme.js"></script>
+      <script src="js/chat.js"></script>
    
 </body></html>
