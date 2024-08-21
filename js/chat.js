@@ -4,11 +4,13 @@ const $id = (selector) => document.getElementById(selector);
 const chatButton = $('#chatButton');
 const closeChat = $('#chat_box_close');
 const chatBox = $id('chat_box');
+const html = $('html');
 
 closeChat.addEventListener('click', () => {
-    chatBox.style.display = 'none';
+    chatBox.classList.remove('active')
 })
 
 chatButton.addEventListener('click', () => {
-    chatBox.style.display = 'block';
+    chatBox.classList.add('active')
+    html.st
 })
